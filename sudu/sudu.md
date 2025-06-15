@@ -47,6 +47,9 @@
 #### 主畫面
 ![image](https://github.com/user-attachments/assets/379d0c16-9401-4f31-8d78-54040bd74b7c)
 
+#### 製作過程截圖
+![image](https://github.com/user-attachments/assets/96d3a29e-4eaf-4247-ac99-20b5e151d4a2)
+
 
 
 ---
