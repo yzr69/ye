@@ -2,7 +2,7 @@
 
 > 組員：林庭毅、蔡政洋  
 > 日期：2025/06/15  
-> GitHub 專案連結：[https://github.com/yourusername/project-name](https://github.com/yourusername/project-name)
+> GitHub 專案連結：[https://github.com/yourusername/project-name](https://github.com/yzr69/ye/tree/main/sudu)
 
 ---
 
@@ -15,11 +15,14 @@
 
 
 ## 🛠️ 設計過程
+用HACK MD 準備好數獨遊戲的規則
+用ai讀取數獨遊戲檔
+搭配生成式ai生成數獨遊戲的程式碼
 
 ### 💡 專題發想
-- 問題動機或靈感來源
-- 預期解決的問題或應用場景
+- 我們的專題是數獨遊戲,因為數獨遊戲是一個經典的遊戲並且可以搭配生成式ai做出來故選擇做這款遊戲
 
+  
 ### 🧰 使用工具與技術
 - 前端：github
 - 後端：c語言
@@ -39,19 +42,18 @@
 - 功能 1：可以順利玩數獨遊戲
 
 
+### 📷 執行畫面截圖
 
 #### 主畫面
-![主畫面](https://your-image-link.com/screenshot1.png)
+![image](https://github.com/user-attachments/assets/379d0c16-9401-4f31-8d78-54040bd74b7c)
 
-#### 功能畫面
-![功能畫面](https://your-image-link.com/screenshot2.png)
+
 
 ---
-
 ## 🤖 生成式 AI 協助紀錄
 
 - **提示設計（Prompt Engineering）**  
-  > 我們使用提示：「請幫我生成一個 Flask API 的範例程式碼，並能處理 JSON 資料」
+  > 我們使用提示：「依 .md 檔案的說明 撰寫一個數獨遊戲 用英語介面」
 
 - **除錯協助**  
   > 遇到錯誤訊息時，將錯誤貼給 ChatGPT，協助定位問題與修正建議
@@ -63,12 +65,11 @@
 
 ## 🧠 心得與反思
 
-- 使用生成式 AI 在撰寫程式時非常方便，特別是在除錯、查詢語法與最佳化方面
-- 專題開發過程中也更能了解 AI 輔助程式設計的潛力與限制
-- 未來會考慮持續使用 AI 工具來提高開發效率與學習效能
+- 使用生成式AI非常方便 不論是除厝還是有不懂的問題都可以立即找到解答
+在熟悉怎麼使用生成式AI之後 之後的學習上會更有效率也會一直使用他
 
 ---
 
 ## 📎 附錄
 
-- GitHub 專案連結：[https://github.com/yourusername/project-name](https://github.com/yourusername/project-name)
+- GitHub 專案連結：[https://github.com/yourusername/project-name](https://github.com/yzr69/ye/tree/main/sudu)
